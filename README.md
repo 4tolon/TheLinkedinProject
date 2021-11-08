@@ -29,7 +29,7 @@ pero se aguó la fiesta. ....
 
 ... llegaron los lloros....
 
-No puedo continuar con este proyecto, esto agotado por las semanas de curso pero sobretodo por un mounstro que vive en mi casa  
+No puedo continuar con este proyecto, estoy agotado por las semanas de curso pero sobretodo por un mounstro que vive en mi casa  
 
 
 
