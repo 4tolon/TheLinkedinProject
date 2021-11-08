@@ -4,7 +4,7 @@ Estudio e implementacion de la API de Linkedin mediante Python.... bueno casi
 
 ![image](https://github.com/4tolon/TheLinkedinProject/blob/main/Images/arguinano-un-chorrito.gif)  
 
-He epezado furte este proyecto, he logrado grandes cosas pero no he consegido finalizarlo satisfactoriamente.
+He epezado fuerte este proyecto, he logrado grandes cosas pero no he consegido finalizarlo satisfactoriamente.
 
 ## Objetivoas cumplidos 🚀
 
@@ -20,14 +20,15 @@ Todo parecia encajar....
 
 ![image](https://github.com/4tolon/TheLinkedinProject/blob/main/Images/fiesta.gif)
 
+
 pero se aguó la fiesta. ....
-
-
 
 
 ![image](https://github.com/4tolon/TheLinkedinProject/blob/main/Images/robot.png)
 
+
 ... llegaron los lloros....
+
 
 No puedo continuar con este proyecto, estoy agotado por las semanas de curso pero sobretodo por un mounstro que vive en mi casa  
 
@@ -36,7 +37,8 @@ No puedo continuar con este proyecto, estoy agotado por las semanas de curso per
 
 ![image](https://github.com/4tolon/TheLinkedinProject/blob/main/Images/demonio-jack-jack.gif)
 
-El caso es que me rindo en este proyecto. Estoy seguro que con tiempo pordria superar las barreras 
+
+Estoy seguro que con tiempo pordria superar las barreras pero tengo que administrar mis fuerzas y recursos.
 
 
 
